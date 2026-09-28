@@ -1,0 +1,19 @@
+# Gradle local state / build output
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Java crash / runtime artifacts
+hs_err_pid*
+replay_pid*
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
